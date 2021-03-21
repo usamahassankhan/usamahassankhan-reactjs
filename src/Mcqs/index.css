@@ -1,0 +1,19 @@
+.button-div{
+    display: flex;
+    padding:100px
+}
+.button-div >button{
+    border:1px solid black;
+    color:black;
+    background-color: white;
+    margin:20px
+}
+.button-div >button:hover{
+    border:1px solid black;
+    color:white;
+    background-color: black;
+    margin:20px
+}
+h4{
+    width:1000px
+}
